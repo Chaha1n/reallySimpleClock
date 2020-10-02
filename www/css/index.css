@@ -22,8 +22,12 @@
 
 #clock{
     color:whitesmoke;
-    text-align: center;
-    font-size: 15vw;
-    line-height: 100vh;
-    margin:0;
+    font-size: 20vw;
+    text-align:center;
+    size: 100%;
+    margin-top:0;
+    line-height: 0;
+}
+.clock-buffer{
+    height: 50vh;
 }
